@@ -1,12 +1,26 @@
 .back {
-    background-color: #2c3e50;
+    background-color: #F2F1EF;
 }
 
 
 #title {
     font-family: 'Quicksand', sans-serif;
-    color: #7f8c8d;
-    margin-top: 5%;
+    color: #95A5A6;
+    margin-top: 4%;
     margin-left: -20%;
-    font-size: 250%;
+    font-size: 270%;
+}
+
+#descript {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: -20%;
+    color: #ABB7B7;
+    font-size: 120%;
+}
+
+.grafico {
+    position: inherit;
+    float: left;
+    margin-top: -2%;
+    margin-left: -2%;
 }

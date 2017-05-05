@@ -7,22 +7,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title>lsd view</title>
-
+    <script src="http://mbostock.github.com/d3/d3.v2.js"></script>
     <link href="css/style.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    
+      
+    <link href="css/linegraph.css" rel="stylesheet">
   </head>
 
   <body class="back">
-
-
-    <div class="container">
-        <div id="title">view lsd</div>
-    </div>
-
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+      
+    <div class="container">
+        <div id="title">view lsd</div>
+        <div id="descript">descrição do gráfico</div>
+    </div>
+      
+    <div class="container">
+        <div id="graph" class="aGraph" class="grafico"></div>
+    </div>
+
+    <script src="js/linegraph.js"></script>
+      
   </body>
 </html>
