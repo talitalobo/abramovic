@@ -1,0 +1,331 @@
+"","titulo","ano","citacoes"
+"1","Scalable and low-latency data processing with stream mapreduce",2011,54
+"2","Speculative out-of-order event processing with software transaction memory",2008,52
+"3","Multithreading-enabled active replication for event stream processing operators",2009,28
+"4","Low-overhead fault tolerance for high-throughput data processing systems",2011,27
+"5","Minimizing latency in fault-tolerant distributed stream processing systems",2009,26
+"6","Active replication at (almost) no cost",2011,22
+"7","Comunicaçao Ethernet em Tempo-real para uma Rede de Microcontroladores",2004,18
+"8","A germany-brazil experience report on teaching software engineering for electrical engineering undergraduate students",2006,15
+"9","Scalable and elastic realtime click stream analysis using streammine3g",2014,10
+"10","Data processing system and method",2005,10
+"11","Predicting energy consumption with streammine3g",2014,8
+"12","Lightweight privacy for smart metering data by adding noise",2014,8
+"13","The study of a dynamic reconfiguration manager for systems-on-chip",2011,8
+"14","Analysis of overhead and profitability in nested cloud environments",2012,6
+"15","A highly-virtualising cloud resource broker",2012,6
+"16","Low cost energy forecasting for smart grids using Stream Mine 3G and Amazon EC2",2014,4
+"17","Assessing the impact of the social network on marking photos as favorites in flickr",2012,4
+"18","Streammine",2010,4
+"19","Optimistic parallelization support for event stream processing systems",2008,4
+"20","A Technique to provide differential privacy for appliance usage in smart metering",2016,3
+"21","Handling crash and software faults efficiently in distributed event stream processing",2010,3
+"22","Delphus: Uma Ferramenta de Detecção de Falhas para Redes Locais",2003,3
+"23","Real time data analysis of taxi rides using streammine3g",2015,2
+"24","Defending against load monitoring in smart metering data through noise addition",2015,2
+"25","Cloud resource recycling: an addition of species to the zoo of virtualised, overlaid, federated, multiplexed and nested clouds",2014,2
+"26","StreamMine3G OneClick--Deploy and Monitor ESP Applications with a Single Click",2013,2
+"27","Programando um subsistema sıncrono para suporte a mecanismos eficientes de tolerância a falhas",2004,2
+"28","Enhancing fairness in P2P cloud federations",2016,1
+"29","Real-time social network graph analysis using StreamMine3G",2016,1
+"30","User-Constraint and Self-Adaptive Fault Tolerance for Event Stream Processing Systems",2015,1
+"31","Incentivising Resource Sharing in Federated Clouds",2015,1
+"32","Controlando a Contenç ao de Recursos para Promover Justiça em uma Federaç ao Peer-to-Peer de Nuvens Privadas",2015,1
+"33","Lifting cloud infrastructure service consumers to providers",2012,1
+"34","Improved event processing performance through parallel event transformation",2007,1
+"35","A cheap and safe COTS wormhole for local area networks",2005,1
+"36","Fast adaptable uniform consensus using global state digests",2004,1
+"37","Enhancing P2P Cooperation through Transitive Indirect Reciprocity",2016,0
+"38","DEBS Grand Challenge: Real Time Data Analysis of Taxi Rides using StreamMine3G",2015,0
+"39","Optimizing resource utilization in private clouds with an opportunistic approach",2013,0
+"40","Operating the Cloud from Inside Out",2013,0
+"41","Energy Efficient Computing through Productivity-Aware Frequency Scaling",2012,0
+"42","Speculation in Parallel and Distributed Event Processing Systems",2010,0
+"43","Scheduling",2010,0
+"44","A Speculation Framework for Event Stream Processing",2008,0
+"45","Fast Adaptable Uniform Consensus Using Global State Digests",2005,0
+"46","Trading cycles for information: Using replication to schedule bag-of-tasks applications on computational grids",2003,321
+"47","OurGrid: An approach to easily assemble grids with equitable resource sharing",2003,307
+"48","Labs of the world, unite!!!",2006,306
+"49","Running bag-of-tasks applications on computational grids: The mygrid approach",2003,171
+"50","Faults in grids: Why are they so bad and what can be done about it?",2003,149
+"51","Exploiting replication and data reuse to efficiently schedule data-intensive applications on grids",2004,130
+"52","Discouraging free riding in a peer-to-peer cpu-sharing grid",2004,129
+"53","Grid computing for bag of tasks applications",2003,105
+"54","On the efficacy, efficiency and emergent behavior of task replication in large distributed systems",2007,82
+"55","Consensus in one communication step",2001,78
+"56","Automatic grid assembly by promoting collaboration in peer-to-peer grids",2007,77
+"57","Resource demand and supply in BitTorrent content-sharing communities",2009,70
+"58","Implementing fail-silent nodes for distributed systems",1996,68
+"59","Peercube: A hypercube-based p2p overlay robust against collusion and churn",2008,55
+"60","Gridunit: software testing on the grid",2006,51
+"61","Bridging the high performance computing gap: the ourgrid experience",2007,39
+"62","Autoflex: Service agnostic auto-scaling framework for iaas deployment models",2013,37
+"63","Learning Managemnt Systems: An Overview and Roadmap of the Systematic Application of Computers in Education",2007,35
+"64","Scheduling in bag-of-task grids: The PAUÁ case",2004,35
+"65","Eva: an event-based framework for developing specialised communication protocols",2001,32
+"66","How Bad Are Wrong Suspicions? Towards Adaptive Distributed Protocols.",2003,30
+"67","Volunteers' Engagement in Human Computation for Astronomy Projects",2014,29
+"68","When can an autonomous reputation scheme discourage free-riding in a peer-to-peer system?",2004,29
+"69","A reciprocation-based economy for multiple services in peer-to-peer grids",2006,28
+"70","Using the computational grid to speed up software testing",2005,27
+"71","Business-driven capacity planning of a cloud-based it infrastructure for the execution of web applications",2010,25
+"72","TVGrid: A Grid Architecture to use the idle resources on a Digital TV network",2007,25
+"73","Multi-environment software testing on the Grid",2006,25
+"74","On the impact of energy-saving strategies in opportunistic grids",2010,24
+"75","Contributor profiles, their dynamics, and their importance in five q&a sites",2013,22
+"76","Long-term SLOs for reclaimed cloud computing resources",2014,21
+"77","A case for event-driven distributed objects",2006,20
+"78","Just in time clouds: Enabling highly-elastic public clouds over low scale amortized resources",2010,19
+"79","E'Learing: Trends and Future Development",2007,19
+"80","Analyzing the impact of elasticity on the profit of cloud computing providers",2013,17
+"81","Investigating business-driven cloudburst schedulers for e-science bag-of-tasks applications",2010,16
+"82","Improving automated testing of multi-threaded software",2008,16
+"83","Communication, Coordination, and Cooperation in Computer-Supported Learning: the AulaNet Experience",2007,16
+"84","Constructing fail-controlled nodes for distributed systems: a software approach",1995,16
+"85","OddCI: on-demand distributed computing infrastructure",2009,15
+"86","Scheduling cpu-intensive grid applications using partial information",2008,15
+"87","A large scale fault-tolerant grid information service",2006,15
+"88","Sandboxing for a free-to-join grid with support for secure site-wide storage area",2006,15
+"89","Collaborative fault diagnosis in grids through automated tests",2006,15
+"90","Accurate autonomous accounting in peer-to-peer grids",2005,15
+"91","On the planning of a hybrid IT infrastructure",2008,14
+"92","Adaptive indulgent consensus",2005,14
+"93","Solving the group priority inversion problem in a timed asynchronous system",2002,14
+"94","Assessing green strategies in peer-to-peer opportunistic grids",2013,13
+"95","An approach for the co-existence of service and opportunistic grids: The eela-2 case",2008,13
+"96","Business-driven short-term management of a hybrid IT infrastructure",2012,12
+"97","NodeWiz: Fault-tolerant grid information service",2009,12
+"98","Torrentlab: Investigating bittorrent through simulation and live experiments",2008,12
+"99","Using remote memory to stabilise data efficiently on an EXT2 linux file system",2002,12
+"100","Obtaining trustworthy test results in multi-threaded systems",2008,11
+"101","Sistemas de gerenciamento de aprendizagem: uma metodologia de avaliação",2011,10
+"102","Advances in computer-supported learning",2006,10
+"103","Uma taxonomia para ambientes de aprendizagem suportados pela web",2002,10
+"104","Avoiding priority inversion on the processing of requests by active replicated servers",2001,10
+"105","Using a simple prioritisation mechanism to effectively interoperate service and opportunistic grids in the eela-2 e-infrastructure",2011,9
+"106","Sobre a amplitude da elasticidade dos provedores atuais de computaç ao na nuvem",2011,9
+"107","A Comparative Analysis of Computer-Suported Learning Models and Guidelines",2008,9
+"108","Seljuk: Um ambiente para suporte ao desenvolvimento e à execução de aplicações distribuídas robustas",1997,8
+"109","Analytical study of adversarial strategies in cluster-based overlays",2009,7
+"110","The ourgrid approach for opportunistic grid computing",2009,7
+"111","Um modelo de armazenamento de metadados tolerante a falhas para o DDGfs",2009,7
+"112","On the efficiency and cost of introducing qos in bittorrent",2007,7
+"113","Integrating computer-supported learning into traditional distance courses",2007,7
+"114","A timeout-based message ordering protocol for a lightweight software implementation of tmr systems",2004,7
+"115","Serviços para Tolerância a Faltas no Ambiente Operacional Seljuk-Amoeba",1997,7
+"116","Dependability evaluation of cluster-based distributed systems",2011,6
+"117","Predicting the quality of service of a peer-to-peer desktop grid",2010,6
+"118","A reciprocation-based economy for multiple services in a computational grid",2009,6
+"119","Adaptive sabotage-tolerant scheduling for peer-to-peer grids",2009,6
+"120","Awareness design in online collaborative learning: A pedagogical perspective",2008,6
+"121","Relative autonomous accounting for peer‐to‐peer Grids",2007,6
+"122","Um algoritmo genético para otimizaçao do controle de redes de escoamento de petróleo",2005,6
+"123","Um algoritmo genético para otimização do controle em tempo real de redes de escoamento de petróleo",2005,6
+"124","Sistema computacional para o monitoramento e controle em tempo real de redes de escoamento",2004,6
+"125","Efficient schemes for constructing reliable computing nodes in distributed systems",1998,6
+"126","TMR processing without explicit clock synchronisation",1995,6
+"127","A user-based model of grid computing workloads",2012,5
+"128","Supporting e-science applications on e-infrastructures: Some use cases from latin america",2011,5
+"129","Using heuristics to improve service portfolio selection in p2p grids",2009,5
+"130","Scalable resource annotation in peer-to-peer grids",2008,5
+"131","On the impact of the data redundancy strategy on the recoverability of friend-to-friend backup systems",2008,5
+"132","On the impact of choice in multi-service P2P grids",2008,5
+"133","Evaluating the impact of simultaneous round participation and decentralized decision on the performance of consensus",2007,5
+"134","UsingWeb Services for Configuration and Deployment according to the CDDLM Standard",2006,5
+"135","Efficient and robust adaptive consensus services based on oracles",2005,5
+"136","Building a User‐Level Grid for Bag‐of‐Tasks Applications",2005,5
+"137","Bouncer-Um Serviço Distribuído e Tolerante a Faltas para Controle de Licenças de Software",1997,5
+"138","Atomic Broadcast Using Time-outs instead of Synchronised Time",1995,5
+"139","Big data analytics for climate change and biodiversity in the EUBrazilCC federated cloud infrastructure",2015,4
+"140","Grid Computing para la recuperación de datos climáticos",2013,4
+"141","Beefs: Um sistema de arquivos distribuıdo posix barato e eficiente para redes locais",2010,4
+"142","Análise de Estratégias de Computaç ao Verde em Grades Computacionais Oportunistas",2010,4
+"143","On the evaluation of services selection algorithms in multi-service P2P grids",2009,4
+"144","On the co-existence of service and opportunistic grids",2009,4
+"145","Not so eXtreme programming: agile practices for R&D projects",2005,4
+"146","Serviço de Comunicação Síncrona para Nodos Replicados",1997,4
+"147","Task redundancy strategy based on volunteers’ credibility for volunteer thinking projects",2013,3
+"148","On the accuracy of trace replay methods for file system evaluation",2013,3
+"149","eScience-as-a-Service: Desafios e Oportunidades para a Criação de Nuvens Científicas",2011,3
+"150","Democratizing resource-intensive e-science through peer-to-peer Grid computing",2011,3
+"151","Bittorrent needs psychiatric guarantees: Quantifying how vulnerable bittorrent swarms are to sybil attacks",2009,3
+"152","An e-Science platform for collaborative generation of knowledge and technology in hydrology, hydrogeology and water resources",2009,3
+"153","Torrentlab: Um ambiente para avaliaçao do protocolo bittorrent",2008,3
+"154","Solomon: Incentivando o Compartilhamento e Maior Disponibilidade em Sistemas de Armazenamento Entre-Pares",2008,3
+"155","Sobre calotes e múltiplas personalidades no bittorrent",2007,3
+"156","An initial assessment of cddlm",2006,3
+"157","On the Design of the Seljuk-Amoeba Operating Environment",1997,3
+"158","Considering human aspects on strategies for designing and managing distributed human computation",2014,2
+"159","SOCIENTIZE participatory experiments, dissemination and networking activities in perspective'",2014,2
+"160","Um arcabouço para provisionamento automático de recursos em provedores de iaas independente do tipo de aplicaç ao",2013,2
+"161","Perspectives of UnaCloud: An Opportunistic Cloud Computing Solution for Facilitating Research",2012,2
+"162","Evaluating the impact of planning long-term contracts on the management of a hybrid IT infrastructure",2011,2
+"163","Computaç ao intensiva em dados com MapReduce em ambientes oportunistas",2011,2
+"164","Estimando o Valor de uma Grade Entre Pares para a Execuç ao de Aplicaç oes do Tipo Saco de Tarefas",2011,2
+"165","Increasing e-Infrastructure Usability: the EELA-2 experience",2010,2
+"166","Smarter Heuristics for Business-Driven Services Selection in Multi-services P2P Grids",2010,2
+"167","Beefs: A cheaper and naturally scalable distributed file system for corporate environments",2010,2
+"168","Brief Announcement: Induced Churn to Face Adversarial Behavior in Peer-to-Peer Systems",2009,2
+"169","Bridging OurGrid-based and gLite-based Grid infrastructures",2009,2
+"170","AutoMan: Gerência Automática no OurGrid",2007,2
+"171","Avaliação da eficácia de um algoritmo genético para escalonamento de bombas em adutoras",2005,2
+"172","A hierarchical failure detection service with perferct semantics",2002,2
+"173","Bouncer: A Robust and Flexible License Management Service for Avoiding Illegal Use of Software",2001,2
+"174","A Practical Approach to Validate the Design of Fault-Tolerant Distributed Protocols for Asynchronous Systems",2001,2
+"175","A Formação e a Prática do Profissional de Programação: Discussão de Estratégias para a Aprendizagem Continuada",1998,2
+"176","A Software Approach to the Construction of Fail-Controlled Nodes for Distributed Systems",1995,2
+"177","Authenticated Agreement Protocols without Explicit Clock Synchronisation",1995,2
+"178","A study on the errors and uncertainties of file system trace capture methods",2016,1
+"179","Fogbow: A Middleware for the Federation of IaaS Clouds",2016,1
+"180","File system trace replay methods through the lens of metrology",2016,1
+"181","Using fogbow to federate private clouds",2015,1
+"182","Uma nuvem privada oportunista para execução de aplicações Bag-of-Tasks",2013,1
+"183","Just-in-time clouds uma abordagem para federaçao de clouds privadas",2013,1
+"184","Sobre o Uso de Dispositivos de Alta Granularidade, Alta Volatilidade e Alta Dispersao em Just in Time Clouds",2013,1
+"185","OddCI-Ginga: Uma Plataforma para Computação de Alta Vazão baseada em Receptores de TV Digital",2012,1
+"186","Uma Nova Polıtica de Incentivos para Grades Computacionais Entre-Pares",2011,1
+"187","Usando as estratégias sobreaviso e hibernaçao para economizar energia em grades computacionais oportunistas",2011,1
+"188","TVGrid: computaçao em grid utilizando recursos de uma rede de TV digital",2008,1
+"189","Escalonamento Tolerante a Sabotagem em Grades Computacionais Entre-Pares",2007,1
+"190","Engineering a Failure Detection Service for Widely Distributed Systems",2007,1
+"191","Implementing Computer-Supported Learning in Corporations",2007,1
+"192","Towards the Educational Semantic Web",2007,1
+"193","Uma Arquitetura de Redes Virtuais para um Grid Aberto e Seguro",2007,1
+"194","Can dynamic provisioning and rejuvenation systems coexist in peace?",2005,1
+"195","Otimização da operação de redes de adução de água utilizando algoritmos genéticos",2005,1
+"196","Otimizaçao do Controle de Redes de Escoamento de Petróleo",2005,1
+"197","Performance analysis of adaptive consensus protocols based on slowness oracles",2004,1
+"198","The OurGrid Project: Running Bag-of-Tasks Applications on Computational Grids",2003,1
+"199","Automatização de um método gráfico para associação de bombas em malhas de dutos para escoamento de petróleo",2003,1
+"200","Implementando Aplicações Distribuídas Robustas Utilizando os Serviços para Tolerância a Falhas de Micro-núcleos Distribuídos",1996,1
+"201","A Science gateway for biodiversity and climate change research",2017,0
+"202","Instance Type Selection in Proactive Horizontal Auto-Scaling",2016,0
+"203","Federation of Private IaaS Cloud Providers through the Barter of Resources",2016,0
+"204","EUBrazilCC Federated Cloud: A Transatlantic Multi-Cloud Infrastructure",2016,0
+"205","Flexible Federation of Cloud Providers: The EUBrazil Cloud Connect Approach",2016,0
+"206","Cell Spotting: educational and motivational outcomes of cell biology citizen science project in the classroom",2016,0
+"207","Digi-Clima Grid: image processing and distributed computing for recovering historical climate data.",2015,0
+"208","Prediction-Based Admission Control for IaaS Clouds with Multiple Service Classes",2015,0
+"209","Adaptive Task Replication Strategy for Human Computation",2014,0
+"210","BitTorrent traffic from a caching perspective",2013,0
+"211","On the Dynamics of Micro-and Macro-task Human Computation Markets",2013,0
+"212","OddCI-Ginga: A Platform for High Throughput Computing Using Digital TV Receivers",2012,0
+"213","Using Broadcast Networks to Create On-demand Extremely Large Scale High-throughput Computing Infrastructures",2012,0
+"214","Open, Scalable and Self-Regulated Federations of Desktop Grids with OurGrid",2012,0
+"215","Workshop on Desktop Grids and Volunteer Computing Systems-PCGrid",2011,0
+"216","Approach to sustainable e-Infrastructures-The case of the Latin American Grid",2010,0
+"217","DOI: 10.1142/S0129054111008593 DEPENDABILITY EVALUATION OF CLUSTER-BASED DISTRIBUTED SYSTEMS∗",2010,0
+"218","Dependability Evaluation of Cluster-based Systems",2010,0
+"219","Induced Churn to Face Adversarial Behavior in Peer-to-Peer Systems",2009,0
+"220","End of Volume Reviewer Index",2009,0
+"221","Induced Churn to Face Adversarial Behavior in Peer-to-Peer Systems. Brief announcement",2009,0
+"222","Using a file working set model to speed up the recovery of Peer-to-Peer backup systems",2008,0
+"223","Proceedings of the 3rd Latin-American symposium on Dependable Computing",2007,0
+"224","Dependable Computing: Third Latin-American Symposium, LADC 2007, Morelia, Mexico, September 26-28, 2007, Proceedings",2007,0
+"225","Using Open Archives and Learning Objectives for Reusing CSL Contents: The SCORM-Sharable Content Object Reference Model",2007,0
+"226","Integrating Visual Representaiton of Knowledge with Learnig Management Syatems: Design Priciples for Advanced Computer-Based Learning Support",2007,0
+"227","Video annotation in online collaborative discussion: A constructivist tool for computer-supported learning",2007,0
+"228","Balancing Tradeoffs in Designing, Deploying, and Authoring Interactive Web-Based Learn-By-Doing Environments",2007,0
+"229","Enabling Execution of Parallel Applications Across Multiple Sites",2006,0
+"230","On the Implmenentation of OurGrid VNET Deployment Mechanism",2006,0
+"231","Sybil Attacks on the Network of Favors",2006,0
+"232","When Can an Autonomous Reputation Scheme Discourage Free-riding in a Peer-to-Peer System?",2005,0
+"233","Autonomous reputation for equitable peer-to-peer resource sharing among eager consumers",2005,0
+"234","CENTRO DE CIÊNCIAS E TECNOLOGIA COORDENAÇÃO DE PÓS-GRADUAÇÃO EM INFORMÁTICA",2005,0
+"235","Sistema computacional para simulação e otimização do escoamento de petróleo em redes de tubulações em tempo real",2005,0
+"236","Using process restarts to improve dynamic provisioning",2004,0
+"237","Efficient and robust adaptive consensus services based on oracles",2004,0
+"238","Effective Integration of Computer-Supported Collaborative Learning into Knowledge Management Structures: A Model and an Evaluation Framework",2004,0
+"239","Second Workshop on Theses and Dissertations in Dependable Computing",2003,0
+"240","Effective Integration of Computer-Supported Collaborative Learning into Knowledge Management Structures",2003,0
+"241","Usando Replicação PARA Escalonar Aplicações Bag-OF-Tasks EM Grids Computacionais",2003,0
+"242","MONITORAMENTO E CONTROLE INTELIGENTES E EM TEMPO REAL DE REDES DE ESCOAMENTO DE PETRÓLEO",2003,0
+"243","Using coloured Petri nets to evaluate the impact of the QoS of failure detectors in the performance of a consensus protocol",2002,0
+"244","Solving the group priority inversion problem in a timed asynchronous system",2001,0
+"245","Mirroring Resources in the World Wide Web",1998,0
+"246","Applying coloured Petri nets to analyze fail silent nodes in distributed systems",1998,0
+"247","Reliable processing on the Seljuk-Amoeba operating environment",1997,0
+"248","Timeout Based Message Ordering Protocols for Software Implementation of TMR Systems",1997,0
+"249","Pensamento Computacional: Um estudo empírico sobre as questões de matemática do PISA",2015,4
+"250","Suporte à evolução e testes no BeeFS",2012,1
+"251","Can Computational Thinking help me? A quantitative study of its effects on education",2016,0
+"252","Influences on cooperation in bittorrent communities",2005,191
+"253","Peer-to-peer grid computing with the ourgrid community",2005,102
+"254","Individual and social behavior in tagging systems",2009,58
+"255","Gifting technologies: A BitTorrent case study",2006,45
+"256","Peer selection strategies for improved QoS in heterogeneous BitTorrent-like VoD systems",2010,37
+"257","Improving accuracy and coverage in an internet-deployed reputation mechanism",2010,18
+"258","A link prediction approach to recommendations in large-scale user-generated content systems",2011,16
+"259","Personalizing eigentrust in the face of communities and centrality attack",2012,13
+"260","Inter-swarm resource allocation in BitTorrent communities",2011,13
+"261","SybilRes: A Sybil-resilient flow-based decentralized reputation mechanism",2012,12
+"262","Eficiência de fungicidas para controle da ferrugem asiática da soja, Phakopsora pachyrhizi, na safra 2006/07",2007,11
+"263","Enabling cross-layer optimizations in storage systems with custom metadata",2008,10
+"264","Leveraging trust and distrust for sybil-tolerant voting in online social media",2012,7
+"265","On swarm-level resource allocation in BitTorrent communities",2013,5
+"266","The Relevance of Annotations Shared by Tourists and Residents on a Geo-Social Network During a Large-Scale Touristic Event: The Case of São João",2014,4
+"267","The OurGrid Protocol: a resource sharing protocol for computational grids",2003,4
+"268","O acesso às políticas públicas no semiárido e seu reflexo na heterogeneidade da agricultura familiar: o PNAE em Boquira-BA",2015,3
+"269","A case study of contributor behavior in Q&A site and tags: the importance of prominent profiles in community productivity",2014,3
+"270","O uso de uma rede geossocial nas cidades brasileiras e sua relação com fatores socioeconômicos",2013,3
+"271","Investment strategies for credit-based P2P communities",2013,3
+"272","Reuse, temporal dynamics, interest sharing, and collaboration in social tagging systems",2013,3
+"273","Mining online music listening trajectories",2016,2
+"274","Social networks meet distributed systems: Towards a robust sybil defense under churn",2015,2
+"275","Exploring the Relation Between Novelty Aspects and Preferences in Music Listening",2013,2
+"276","Ativistas, passageiros, ocasionais e especialistas: perfis de usuário na construção de um site de Q&A",2011,2
+"277","A comprehensive 3G link level simulator",2002,2
+"278","Dimensions, mass and volume of the liver of turtles (Trachemys scripta elegans WIED, 1839)",2011,1
+"279","Measuring Effectiveness of Mechanisms for Promoting Cooperation in BitTorrent",2008,1
+"280","A pequena produção de leite e o setor queijeiro no estado de sergipe",2003,1
+"281","Participation Differences in Q&A Sites Across Countries: Opportunities for Cultural Adaptation",2016,0
+"282","Exploring the Latent Structure of Collaborations in Music Recordings: a Case Study in Jazz",2016,0
+"283","Assessing the Value of Peer-Produced Information for Exploratory Search",2015,0
+"284","Evaluating Conflict Management Mechanisms for Online Social Jukeboxes.",2015,0
+"285","A Linked Open Data Approach for Feature Based Diversification in Music Recommendation Systems",2012,0
+"286","Previsão de horários dos ônibus do sistema de transporte público coletivo da cidade de Campina Grande",2012,0
+"287","Relatório de Estágio Curricular–Global Wines/Dão Sul-Quinta do Encontro-Carregal do Sal",2011,0
+"288","ThriftyTorrent: Cheap P2P software patch distribution for enterprise networks",2009,0
+"289","Distribuiçao de Conteudo Entre-pares em Perspectiva: Um Estudo sobre Carga, Compartilhamento e Qualidade de Serviço em Comunidades BitTorrent",2008,0
+"290","Keyword (s)",2006,0
+"291","Programa cantar",1997,0
+"292","The use of scanning electron microscope to identify expansive reaction products in concrete",1996,0
+"293","Melhores práticas para Gerência de Redes de Computadores",2003,42
+"294","Assessing data deduplication trade-offs from an energy and performance perspective",2011,15
+"295","Business-Driven Long-Term Capacity Planning for SaaS Applications",2015,4
+"296","Towards practical auto scaling of user facing applications",2012,3
+"297","Planejamento de capacidade a longo prazo dirigido por métricas de negócio para aplicaç oes saas",2013,1
+"298","Distributed test agents: a pattern for the development of automatic system tests for distributed applications",2012,1
+"299","Adaptive computing on the grid using AppLeS",2003,575
+"300","A comprehensive model of the supercomputer workload",2001,160
+"301","Benchmarks and standards for the evaluation of parallel job schedulers",1999,146
+"302","A model for moldable supercomputer jobs",2001,126
+"303","Using moldability to improve the performance of supercomputer jobs",2002,96
+"304","Adaptive selection of partition size for supercomputer requests",2000,55
+"305","When the herd is smart: aggregate behavior in the selection of job request",2003,42
+"306","Grids computacionais: Arquiteturas, tecnologias e aplicações",2003,35
+"307","Open Grid: A user-centric approach for grid computing",2001,30
+"308","MyGrid: A complete solution for running bag-of-tasks applications",2004,28
+"309","Grids Computacionais: da Computaç ao de Alto Desempenho a Serviços sob Demanda",2005,23
+"310","The seghidro experience: Using the grid to empower a hydro-meteorological scientific network",2005,22
+"311","Non-dedicated distributed environment: A solution for safe and continuous exploitation of idle cycles",2001,21
+"312","Independently auditing service level agreements in the grid",2004,13
+"313","Security issues in agent based computing",1997,13
+"314","Transparent resource allocation to exploit idle cluster nodes in computational grids",2005,12
+"315","AnthillSched: A scheduling strategy for irregular and iterative I/O-intensive parallel jobs",2005,9
+"316","Maintenance techniques for an intelligent alarm processing system",2005,7
+"317","When the herd is smart: The emergent behavior of sa",2002,5
+"318","The SegHidro Experience: Using the Grid to Empower a HydroMeteorological",2005,4
+"319","Response time analysis of gang scheduling for real time systems",2002,4
+"320","Application scheduling over supercomputers: A proposal",1999,3
+"321","Converting space shared resources into intermittent resources for use in bag-of-tasks Grids",2005,2
+"322","Computação em Grade: Conceitos, Tecnologias, Aplicações e Tendências",2005,2
+"323","Acoplamento operacional de modelos atmosféricos, hidrológicos e de gerenciamento de recursos hídricos “",2005,2
+"324","Utilização do software MyGrid para adaptar uma aplicação de dinâmica molecular em uma Grade Computacional.",2003,2
+"325","Study of HIV-1 Protease Mutants Using Molecular Dynamics in a Grid Based Computational Plataform",2003,2
+"326","The portalgiga project",2005,1
+"327","Hiding Grid Resources Behind Brokers",2004,0
+"328","Erick B. PASSOS",2003,0
+"329","Different perspectives on economic base",1999,0
+"330","Chimichanga: A Fault Tolerant Asynchronous Communication Infrastructure for Mobile Agents",1998,0
